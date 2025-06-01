@@ -143,4 +143,4 @@ O sistema implementa uma fila com prioridades onde:
 
 ## Autor
 
-Desenvolvido como trabalho acadêmico para a disciplina Introdução à Programação de Computadores.
+Desenvolvido por Ahmed Hachem como trabalho acadêmico para a disciplina Introdução à Programação de Computadores.
